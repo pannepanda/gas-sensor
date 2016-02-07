@@ -20,4 +20,9 @@ Parts that you can buy to improve your device:
 
 Short instructions on how to connect the parts can be found as comments in the Arduino file. 
 
+What are the files for? 
+-> .ino file is the code that has to be loaded onto the controller
+-> Gerber~ are files used to print PCBs
+-> PCB~ are editable eagle files of the PCB layout 
+
 Any questions or ideas about this project, send me an email: rgn23@bath.ac.uk 
