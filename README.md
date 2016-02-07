@@ -20,4 +20,4 @@ Parts that you can buy to improve your device:
 
 Short instructions on how to connect the parts can be found as comments in the Arduino file. 
 
-Any questions, send me an email: rgn23@bath.ac.uk 
+Any questions or ideas about this project, send me an email: rgn23@bath.ac.uk 
